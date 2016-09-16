@@ -1,2 +1,3 @@
 # upnext
-webb app for a list with release date of games
+webb application that shows release date of games (PS4 only).
+First commits are comming!
